@@ -30,4 +30,3 @@
 
 - To Create additional articles, you can use /api/articles POST with the appropriate body.
 
-Enjoy using the App!
