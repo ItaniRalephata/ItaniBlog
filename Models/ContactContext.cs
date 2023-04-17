@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-
+//Itani Ralephata
 namespace blogdemo.Models;
 
 public class ContactContext : DbContext
